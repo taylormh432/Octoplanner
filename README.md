@@ -1,13 +1,6 @@
-HOW TO START THE REACT APP:
+Welcome to Octoplanner!
 
-** MAKE SURE YOU HAVE REACT INSTALLED ** 
-(Run "npm view react version" in terminal to check)
+Octoplanner is an interactive and user-friendly scheduling app that encourages students to study in a more efficient manner.
+Based on the Ebbinghaus forgetting curve, Octoplanner allows students to input their syllabus to formulate a study schedule using the spaced repetition method.
 
-1) In terminal, make sure you are in the EdTech-AP/octoplanner/frontend directory
-use "cd octoplanner/frontend" if you are not inside of it
-
-2) Run the command "npm i" inside terminal
-
-3) Run the command "npm start" inside terminal, the website app should load into localhost:3000 on your web browser
-
-
+Part of a collaborative project within Texas Convergent - Education Technology Team.
